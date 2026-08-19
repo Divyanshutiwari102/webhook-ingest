@@ -1,0 +1,5 @@
+/server
+/bin
+.env
+.idea/
+payload.json
